@@ -1,27 +1,39 @@
 {
-    "Lato": { 
-        "path": "", 
-        "regular": "Lato-Regular.ttf", 
-        "bold": "Lato-Bold.ttf" 
+    "Lato": {
+        "path": "",
+        "styles": [
+            { "name": "Regular", "weight": 400, "file": "Lato-Regular.ttf" },
+            { "name": "Bold", "weight": 700, "file": "Lato-Bold.ttf" },
+            { "name": "Light", "weight": 300, "file": "Lato-Light.ttf" }
+        ]
     },
-    "Open Sans": { 
-        "path": "", 
-        "regular": "OpenSans-Regular.ttf", 
-        "bold": "OpenSans-Bold.ttf" 
+    "Open Sans": {
+        "path": "",
+        "styles": [
+            { "name": "Regular", "weight": 400, "file": "OpenSans-Regular.ttf" },
+            { "name": "Bold", "weight": 700, "file": "OpenSans-Bold.ttf" },
+            { "name": "Light", "weight": 300, "file": "OpenSans-Light.ttf" }
+        ]
+    },
+    "Open Sans Condensed": {
+        "path": "",
+        "styles": [
+            { "name": "Bold", "weight": 700, "file": "OpenSans_Condensed-Bold.ttf" }
+        ]
     },
     "Roboto": {
         "path": "",
-        "regular": "Roboto-Regular.ttf",
-        "bold": "Roboto-Black.ttf"
+        "styles": [
+            { "name": "Regular", "weight": 400, "file": "Roboto-Regular.ttf" },
+            { "name": "Black", "weight": 900, "file": "Roboto-Black.ttf" }
+        ]
     },
     "Roboto Condensed": {
         "path": "",
-        "regular": "Roboto_Condensed-Light.ttf",
-        "bold": "Roboto_Condensed-Bold.ttf"
-    },
-    "OpenSans Condensed": {
-        "path": "",
-        "regular": "OpenSans-Light.ttf",
-        "bold": "OpenSans_Condensed-Bold.ttf"
+        "styles": [
+            { "name": "Light", "weight": 300, "file": "Roboto_Condensed-Light.ttf" },
+            { "name": "Bold", "weight": 700, "file": "Roboto_Condensed-Bold.ttf" },
+            { "name": "Black", "weight": 900, "file": "Roboto_Condensed-Black.ttf" }
+        ]
     }
 }
