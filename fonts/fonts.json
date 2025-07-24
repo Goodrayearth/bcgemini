@@ -1,27 +1,27 @@
 {
-    "Roboto": { 
-        "path": "roboto/", 
-        "regular": "Roboto-Regular.ttf", 
-        "bold": "Roboto-Bold.ttf" 
-    },
-    "Montserrat": { 
-        "path": "montserrat/static/", 
-        "regular": "Montserrat-Regular.ttf", 
-        "bold": "Montserrat-Bold.ttf" 
-    },
-    "Open Sans": { 
-        "path": "opensans/static/", 
-        "regular": "OpenSans-Regular.ttf", 
-        "bold": "OpenSans-Bold.ttf" 
-    },
     "Lato": { 
-        "path": "lato/", 
+        "path": "", 
         "regular": "Lato-Regular.ttf", 
         "bold": "Lato-Bold.ttf" 
     },
-    "Merriweather": { 
-        "path": "merriweather/", 
-        "regular": "Merriweather-Regular.ttf", 
-        "bold": "Merriweather-Bold.ttf" 
+    "Open Sans": { 
+        "path": "", 
+        "regular": "OpenSans-Regular.ttf", 
+        "bold": "OpenSans-Bold.ttf" 
+    },
+    "Roboto": {
+        "path": "",
+        "regular": "Roboto-Regular.ttf",
+        "bold": "Roboto-Black.ttf"
+    },
+    "Roboto Condensed": {
+        "path": "",
+        "regular": "Roboto_Condensed-Light.ttf",
+        "bold": "Roboto_Condensed-Bold.ttf"
+    },
+    "OpenSans Condensed": {
+        "path": "",
+        "regular": "OpenSans-Light.ttf",
+        "bold": "OpenSans_Condensed-Bold.ttf"
     }
 }
